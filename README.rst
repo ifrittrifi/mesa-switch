@@ -7,8 +7,6 @@ Mesa's Nouveau drivers.
 
 Based on Mesa 26.2.4.
 
-This repository lives at https://github.com/danfromtico/mesa-switch.
-
 
 What you get
 ------------
